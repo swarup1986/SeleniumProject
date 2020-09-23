@@ -1,0 +1,4 @@
+2019-03-20 19:08:52,950 [main] INFO loggerinfo - Chrome Driver instantiated
+2019-03-20 19:08:57,236 [main] INFO loggerinfo - RedBus site opened
+2019-03-20 19:08:58,374 [main] INFO loggerinfo - Browser window maximized
+2019-03-20 19:08:58,596 [main] INFO loggerinfo - Date Picker Clicked

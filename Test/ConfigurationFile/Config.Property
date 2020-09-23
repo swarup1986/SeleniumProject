@@ -1,0 +1,5 @@
+ChromePath=C:\\Swarup\\Selenium\\chromedriver_win32\\chromedriver.exe
+FirefoxPath=C:\\Swarup\\Selenium\\geckodriver-v0.23.0-win64\\geckodriver.exe
+
+IEPath=C:\\Swarup\\Selenium\\IEDriverServer_x64_3.14.0\\IEDriverServer.exe
+URL=http://www.learn-automation.com
